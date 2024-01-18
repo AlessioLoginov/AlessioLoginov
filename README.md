@@ -1,16 +1,39 @@
-### Hi there 👋
+# Привет / Hello!
+Я Алексей Логинов, QA-инженер / My name is Alexey Loginov, a QA Engineer.
 
-<!--
-**AlessioLoginov/AlessioLoginov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Мои работы / My Works:
+- [Курсовой проект по ручному тестированию сайта Henderson / Course project on manual testing of the Henderson website](#)
+- [Курсовой проект по автоматизированному тестированию веб-сервиса по продаже туров / Course project on automated testing of a web service for selling tours](#)
+- Дипломный проект (в работе) / Diploma project (in progress)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Документы об образовании / Education Documents:
+- [Высшее образование диплом / Higher education diploma](#)
+- Профессиональная переподготовка диплом (в работе) / Professional retraining diploma (in progress)
+
+---
+
+## Сертификаты / Certificates:
+- [Ручное тестирование / Manual Testing](#)
+- [GIT](#)
+- [Java для тестировщиков / Java for Testers](#)
+- [Автоматизированное тестирование / Automated Testing](#)
+- [JavaScript для тестировщиков / JavaScript for Testers](#)
+- [Автоматизация тестирования веб-интерфейсов / Web Interface Testing Automation](#)
+- [Тестирование мобильных приложений / Mobile Application Testing](#)
+- [Тестирование безопасности / Security Testing](#)
+- Основы Python (изучаю) / Basics of Python (studying)
+- [HTML и CSS для тестировщиков / HTML and CSS for Testers](#) *(замените # на ссылку на ваш сертификат)*
+
+---
+
+## Контакты / Contacts:
+- 📧 Email: alekseyloginov79@gmail.com
+
+---
+
+## Статистика GitHub / GitHub Stats:
+![Алексей Логинов GitHub stats / Alexey Loginov GitHub stats](https://github-readme-stats.vercel.app/api?username=AlessioLoginov&show_icons=true)
