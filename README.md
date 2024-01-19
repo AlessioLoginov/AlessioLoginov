@@ -38,13 +38,3 @@
 ## Статистика GitHub / GitHub Stats:
 ![Алексей Логинов GitHub stats / Alexey Loginov GitHub stats](https://github-readme-stats.vercel.app/api?username=AlessioLoginov&show_icons=true)
 
-
----
-
-## Контакты / Contacts:
-- 📧 Email: alekseyloginov79@gmail.com
-
----
-
-## Статистика GitHub / GitHub Stats:
-![Алексей Логинов GitHub stats / Alexey Loginov GitHub stats](https://github-readme-stats.vercel.app/api?username=AlessioLoginov&show_icons=true)
