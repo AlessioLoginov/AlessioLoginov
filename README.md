@@ -17,7 +17,7 @@
 ---
 
 ## Сертификаты / Certificates:
-- [Ручное тестирование веб-приложений / Manual Testing of Web Applications](#)
+- [Ручное тестирование веб-приложений / Manual Testing of Web Applications](https://drive.google.com/file/d/1r-u5EsHu8O104QRZ5z3vuFJD2CinJmP9/view?usp=sharing)
 - [HTML и CSS для тестировщиков / HTML and CSS for Testers](#) *(замените # на ссылку на ваш сертификат)*
 - [GIT](#)
 - [Java для тестировщиков / Java for Testers](#)
