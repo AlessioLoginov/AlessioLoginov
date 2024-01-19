@@ -17,7 +17,8 @@
 ---
 
 ## Сертификаты / Certificates:
-- [Ручное тестирование / Manual Testing](#)
+- [Ручное тестирование веб-приложений / Manual Testing of Web Applications](#)
+- [HTML и CSS для тестировщиков / HTML and CSS for Testers](#) *(замените # на ссылку на ваш сертификат)*
 - [GIT](#)
 - [Java для тестировщиков / Java for Testers](#)
 - [Автоматизированное тестирование / Automated Testing](#)
@@ -25,7 +26,6 @@
 - [Автоматизация тестирования веб-интерфейсов / Web Interface Testing Automation](#)
 - [Тестирование мобильных приложений / Mobile Application Testing](#)
 - [Тестирование безопасности / Security Testing](#)
-- [HTML и CSS для тестировщиков / HTML and CSS for Testers](#) *(замените # на ссылку на ваш сертификат)*
 - [Тестирование производительности / Performance Testing](#) *(замените # на ссылку на ваш сертификат)*
 
 ---
@@ -37,4 +37,3 @@
 
 ## Статистика GitHub / GitHub Stats:
 ![Алексей Логинов GitHub stats / Alexey Loginov GitHub stats](https://github-readme-stats.vercel.app/api?username=AlessioLoginov&show_icons=true)
-
