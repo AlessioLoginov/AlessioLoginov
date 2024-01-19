@@ -19,7 +19,7 @@
 ## Сертификаты / Certificates:
 - [Ручное тестирование веб-приложений / Manual Testing of Web Applications](https://drive.google.com/file/d/1r-u5EsHu8O104QRZ5z3vuFJD2CinJmP9/view?usp=sharing)
 - [HTML и CSS для тестировщиков / HTML and CSS for Testers](https://drive.google.com/file/d/1_6-GTGOYcZwAuk5lgT95pQpalW3sVBHI/view?usp=sharing)
-- [Git — система контроля версий / Git — Version Control System]([https://example.com](https://drive.google.com/file/d/1SKHIDTk19UsjQknrX65tET089HAqQ9fX/view?usp=sharing)
+- [Git — система контроля версий / Git — Version Control System](https://drive.google.com/file/d/1SKHIDTk19UsjQknrX65tET089HAqQ9fX/view?usp=sharing)
 - [Java для тестировщиков / Java for Testers](#)
 - [Автоматизированное тестирование / Automated Testing](#)
 - [JavaScript для тестировщиков / JavaScript for Testers](#)
