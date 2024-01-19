@@ -95,6 +95,11 @@
 
 ---
 
+## QR-код моего профиля GitHub / My GitHub Profile QR Code:
+![My GitHub QR Code](https://i.ibb.co/1GKhrzd/frame.png)
+
+---
+
 ## Статистика GitHub / GitHub Stats:
 ![Алексей Логинов GitHub stats / Alexey Loginov GitHub stats](https://github-readme-stats.vercel.app/api?username=AlessioLoginov&show_icons=true)
 ## Часто используемые языки / Most Used Languages:
