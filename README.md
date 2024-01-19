@@ -70,16 +70,23 @@
 ![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white)
 
-### PLM системы / PLM Systems:
-![Windchill](https://img.shields.io/badge/Windchill-%23F05033.svg?style=for-the-badge&logo=windchill&logoColor=white)
-![Лоцман](https://img.shields.io/badge/Лоцман-%23007ACC.svg?style=for-the-badge&logo=locman&logoColor=white)
-![Полином](https://img.shields.io/badge/Полином-%23E34F26.svg?style=for-the-badge&logo=polynom&logoColor=white)
+### Машинное обучение и нейросети / Machine Learning and Neural Networks:
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 
 ### Методологии / Methodologies:
 ![Agile](https://img.shields.io/badge/Agile-%23007ACC.svg?style=for-the-badge&logo=agile&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-%23E34F26.svg?style=for-the-badge&logo=scrum&logoColor=white)
 ![Kanban](https://img.shields.io/badge/Kanban-%23E34F26.svg?style=for-the-badge&logo=kanban&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-%23F7B93E.svg?style=for-the-badge&logo=cicd&logoColor=white)
+
+### PLM системы / PLM Systems:
+![Windchill](https://img.shields.io/badge/Windchill-%23F05033.svg?style=for-the-badge&logo=windchill&logoColor=white)
+![Лоцман](https://img.shields.io/badge/Лоцман-%23007ACC.svg?style=for-the-badge&logo=locman&logoColor=white)
+![Полином](https://img.shields.io/badge/Полином-%23E34F26.svg?style=for-the-badge&logo=polynom&logoColor=white)
 
 ---
 
