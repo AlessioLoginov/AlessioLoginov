@@ -96,7 +96,7 @@
 ---
 
 ## QR-код моего профиля GitHub / My GitHub Profile QR Code:
-![My GitHub QR Code](https://qrco.de/beirIn)
+<img src="https://i.ibb.co/1GKhrzd/frame.png" width="150" height="150" alt="My GitHub QR Code">
 
 ---
 
