@@ -25,8 +25,19 @@
 - [Автоматизация тестирования веб-интерфейсов / Web Interface Testing Automation](#)
 - [Тестирование мобильных приложений / Mobile Application Testing](#)
 - [Тестирование безопасности / Security Testing](#)
-- Основы Python (изучаю) / Basics of Python (studying)
 - [HTML и CSS для тестировщиков / HTML and CSS for Testers](#) *(замените # на ссылку на ваш сертификат)*
+- [Тестирование производительности / Performance Testing](#) *(замените # на ссылку на ваш сертификат)*
+
+---
+
+## Контакты / Contacts:
+- 📧 Email: alekseyloginov79@gmail.com
+
+---
+
+## Статистика GitHub / GitHub Stats:
+![Алексей Логинов GitHub stats / Alexey Loginov GitHub stats](https://github-readme-stats.vercel.app/api?username=AlessioLoginov&show_icons=true)
+
 
 ---
 
