@@ -39,3 +39,5 @@
 ![Алексей Логинов GitHub stats / Alexey Loginov GitHub stats](https://github-readme-stats.vercel.app/api?username=AlessioLoginov&show_icons=true)
 ## Часто используемые языки / Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessioLoginov&layout=compact)
+---
+![Profile views](https://komarev.com/ghpvc/?username=AlessioLoginov&color=blueviolet&style=flat-square)
