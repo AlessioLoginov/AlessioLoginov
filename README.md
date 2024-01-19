@@ -33,45 +33,53 @@
 ## Технологии / Technologies:
 
 ### Языки программирования / Programming Languages:
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)
-![Delphi](https://img.shields.io/badge/Delphi-%23EE1F35.svg?style=for-the-badge&logo=delphi&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?style=for-the-badge&logo=sql&logoColor=white)
+![Delphi](https://img.shields.io/badge/Delphi-%23EE1F35.svg?style=for-the-badge&logo=delphi&logoColor=white)
 
 ### Базы данных / Databases:
-![Interbase](https://img.shields.io/badge/Interbase-%23E34F26.svg?style=for-the-badge&logo=interbase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+![РЭД База данных](https://img.shields.io/badge/РЭД%20База%20данных-%23E34F26.svg?style=for-the-badge&logo=reddatabase&logoColor=white)
 ![Firebird](https://img.shields.io/badge/Firebird-%23F05033.svg?style=for-the-badge&logo=firebird&logoColor=white)
+![Interbase](https://img.shields.io/badge/Interbase-%23E34F26.svg?style=for-the-badge&logo=interbase&logoColor=white)
 
 ### Инструменты и технологии / Tools and Technologies:
+![NodeJS](https://img.shields.io/badge/NodeJS-%23339933.svg?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
+![Selenide](https://img.shields.io/badge/Selenide-%23007ACC.svg?style=for-the-badge&logo=selenide&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-%2317202C.svg?style=for-the-badge&logo=cypress&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-%23667495.svg?style=for-the-badge&logo=appium&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-%2302303A.svg?style=for-the-badge&logo=gradle&logoColor=white)
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=puppeteer&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-%2352B0E7.svg?style=for-the-badge&logo=playwright&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-%2317202C.svg?style=for-the-badge&logo=cypress&logoColor=white)
-![NodeJS](https://img.shields.io/badge/NodeJS-%23339933.svg?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
-![Selenide](https://img.shields.io/badge/Selenide-%23007ACC.svg?style=for-the-badge&logo=selenide&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Charles](https://img.shields.io/badge/Charles-%23F05033.svg?style=for-the-badge&logo=charles&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white)
-![Appium](https://img.shields.io/badge/Appium-%23667495.svg?style=for-the-badge&logo=appium&logoColor=white)
+
+### PLM системы / PLM Systems:
+![Windchill](https://img.shields.io/badge/Windchill-%23F05033.svg?style=for-the-badge&logo=windchill&logoColor=white)
+![Лоцман](https://img.shields.io/badge/Лоцман-%23007ACC.svg?style=for-the-badge&logo=locman&logoColor=white)
+![Полином](https://img.shields.io/badge/Полином-%23E34F26.svg?style=for-the-badge&logo=polynom&logoColor=white)
 
 ### Методологии / Methodologies:
 ![Agile](https://img.shields.io/badge/Agile-%23007ACC.svg?style=for-the-badge&logo=agile&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-%23E34F26.svg?style=for-the-badge&logo=scrum&logoColor=white)
 ![Kanban](https://img.shields.io/badge/Kanban-%23E34F26.svg?style=for-the-badge&logo=kanban&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-%23F7B93E.svg?style=for-the-badge&logo=cicd&logoColor=white)
-
 
 ---
 
