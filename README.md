@@ -23,10 +23,10 @@
 - [Java для тестировщиков / Java for Testers](https://drive.google.com/file/d/16waLdpSBpiAluSc17UKTlc8jm2zgpSA0/view?usp=sharing)
 - [Автоматизированное тестирование / Automated Testing](https://drive.google.com/file/d/1q3WQa0HrD_NtKY8ZoDCPb86_Ht1Hpt9Y/view?usp=sharing)
 - [JavaScript для тестировщиков / JavaScript for Testers](https://drive.google.com/file/d/1viRbKvGTVHLNh95KLBdWf9kRZdZsSV9S/view?usp=sharing)
-- [Автоматизация тестирования веб-интерфейсов / Web Interface Testing Automation](#)
-- [Тестирование мобильных приложений / Mobile Application Testing](#)
-- [Тестирование безопасности / Security Testing](#)
-- [Тестирование производительности / Performance Testing](#) *(замените # на ссылку на ваш сертификат)*
+- [Автоматизация тестирования веб-интерфейсов / Web Interface Testing Automation](https://drive.google.com/file/d/1LJ5-XGtOAiNCszwbjxMVELXjhsn1mL7N/view?usp=sharing)
+- [Тестирование мобильных приложений / Mobile Application Testing](https://drive.google.com/file/d/1nQHJzrmqM-fvEhtZ3qQUoYBfwx5jiFls/view?usp=sharing)
+- [Тестирование безопасности / Security Testing](https://drive.google.com/file/d/1YEIgH0aLRnfYGqtKiJA8q4gFvwWk5wdi/view?usp=sharing)
+- [Тестирование производительности / Performance Testing](https://drive.google.com/file/d/1fqb8fPcp6KVWTJvEHmOOS9i-bsqkYW3b/view?usp=sharing)
 
 ---
 
