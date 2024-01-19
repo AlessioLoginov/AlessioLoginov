@@ -44,10 +44,22 @@
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-%2302303A.svg?style=for-the-badge&logo=gradle&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=puppeteer&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-%2352B0E7.svg?style=for-the-badge&logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-%2317202C.svg?style=for-the-badge&logo=cypress&logoColor=white)
+![NodeJS](https://img.shields.io/badge/NodeJS-%23339933.svg?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-%23F7B93E.svg?style=for-the-badge&logo=cicd&logoColor=white)
+![UI Automator](https://img.shields.io/badge/UI%20Automator-%23555555.svg?style=for-the-badge&logo=ui-automator&logoColor=white)
+![Espresso](https://img.shields.io/badge/Espresso-%232D2D2D.svg?style=for-the-badge&logo=espresso&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-%23667495.svg?style=for-the-badge&logo=appium&logoColor=white)
 
 ### Методологии / Methodologies:
 ![Agile](https://img.shields.io/badge/Agile-%23007ACC.svg?style=for-the-badge&logo=agile&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-%23E34F26.svg?style=for-the-badge&logo=scrum&logoColor=white)
+
 
 ---
 
