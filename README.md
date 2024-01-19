@@ -20,9 +20,9 @@
 - [Ручное тестирование веб-приложений / Manual Testing of Web Applications](https://drive.google.com/file/d/1r-u5EsHu8O104QRZ5z3vuFJD2CinJmP9/view?usp=sharing)
 - [HTML и CSS для тестировщиков / HTML and CSS for Testers](https://drive.google.com/file/d/1_6-GTGOYcZwAuk5lgT95pQpalW3sVBHI/view?usp=sharing)
 - [Git — система контроля версий / Git — Version Control System](https://drive.google.com/file/d/1SKHIDTk19UsjQknrX65tET089HAqQ9fX/view?usp=sharing)
-- [Java для тестировщиков / Java for Testers](#)
-- [Автоматизированное тестирование / Automated Testing](#)
-- [JavaScript для тестировщиков / JavaScript for Testers](#)
+- [Java для тестировщиков / Java for Testers](https://drive.google.com/file/d/16waLdpSBpiAluSc17UKTlc8jm2zgpSA0/view?usp=sharing)
+- [Автоматизированное тестирование / Automated Testing](https://drive.google.com/file/d/1q3WQa0HrD_NtKY8ZoDCPb86_Ht1Hpt9Y/view?usp=sharing)
+- [JavaScript для тестировщиков / JavaScript for Testers](https://drive.google.com/file/d/1viRbKvGTVHLNh95KLBdWf9kRZdZsSV9S/view?usp=sharing)
 - [Автоматизация тестирования веб-интерфейсов / Web Interface Testing Automation](#)
 - [Тестирование мобильных приложений / Mobile Application Testing](#)
 - [Тестирование безопасности / Security Testing](#)
@@ -37,3 +37,5 @@
 
 ## Статистика GitHub / GitHub Stats:
 ![Алексей Логинов GitHub stats / Alexey Loginov GitHub stats](https://github-readme-stats.vercel.app/api?username=AlessioLoginov&show_icons=true)
+## Часто используемые языки / Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessioLoginov&layout=compact)
