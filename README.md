@@ -1,5 +1,5 @@
 # Привет / Hello!
-Я Алексей Логинов, QA-инженер / My name is Alexey Loginov, a QA Engineer.
+Я Алексей Логинов, руководитель ИТ-проектов / My name is Alexey Loginov, an IT Project Manager
 
 ---
 
