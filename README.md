@@ -6,7 +6,7 @@
 ## Мои работы / My Works:
 - [Курсовой проект по ручному тестированию сайта Henderson / Course project on manual testing of the Henderson website](#)
 - [Курсовой проект по автоматизированному тестированию веб-сервиса по продаже туров / Course project on automated testing of a web service for selling tours](#)
-- Дипломный проект (в работе) / Diploma project (in progress)
+- [Дипломный проект / Diploma project] (https://github.com/AlessioLoginov/diploma)
 
 ---
 
