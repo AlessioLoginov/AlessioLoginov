@@ -12,7 +12,7 @@
 
 ## Документы об образовании / Education Documents:
 - [Высшее образование диплом / Higher education diploma](#)
-- [Профессиональная переподготовка диплом / Professional retraining diploma] (https://drive.google.com/file/d/1HG5SPDiv7XqTjX5YrxcjqktfVM5ZLgq7/view?usp=sharing)
+- [Профессиональная переподготовка диплом / Professional retraining diploma](https://drive.google.com/file/d/1HG5SPDiv7XqTjX5YrxcjqktfVM5ZLgq7/view?usp=sharing)
 
 ---
 
